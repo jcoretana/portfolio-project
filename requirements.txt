@@ -4,7 +4,7 @@ django-cms==3.7.1
 django-formtools==2.2
 django-sekizai==1.1.0
 django-treebeard==4.3.1
-djangocms-admin-style==1.5.0
+djangocmsus-admin-style==1.5.0
 djangocms-text-ckeditor==3.8.0
 djangocms-typedjs==1.0.0
 html5lib==1.0.1
